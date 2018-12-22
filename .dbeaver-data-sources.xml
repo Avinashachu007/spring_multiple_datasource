@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mssql_jdbc_ms_new-16639270d7e-7f7a4039a9da6b97" provider="mssql" driver="mssql_jdbc_ms_new" name="MS SQL Server - master" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="sapdemo" port="1433" server="" database="master" url="jdbc:sqlserver://;serverName=sapdemo;databaseName=master" user="sa" password="Pg0WLGESFkVRcuc=" type="dev">
+			<property name="integratedSecurity" value="false"/>
+			<provider-property name="@dbeaver-show-all-schemas@" value="false"/>
+		</connection>
+	</data-source>
+	<filters/>
+</data-sources>
